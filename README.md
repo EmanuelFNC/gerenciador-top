@@ -1,4 +1,4 @@
-Gerenciador TOP - Sistema de Gestão Comercial
+[Gerenciador TOP - Sistema de Gestão Comercial](https://top-demo.e-manuel.xyz/)
 
 ![Gerenciador TOP Logo](https://i.imgur.com/Khzspf7.png)
 
@@ -7,7 +7,7 @@ Gerenciador TOP - Sistema de Gestão Comercial
 O Gerenciador TOP é um sistema completo de gestão comercial desenvolvido para automatizar e otimizar operações de pequenos e médios negócios. A plataforma integra funcionalidades essenciais para o gerenciamento eficiente de vendas, produtos, clientes, contas a pagar/receber e fluxo de caixa.
 
 ### 🌐 Demo Online
-Experimente agora: [top-demo.e-manuel.xyz/](https://top-demo.e-manuel.xyz/)
+Experimente agora: [top-demo.e-manuel.xyz](https://top-demo.e-manuel.xyz/)
 
 ## ✨ Funcionalidades Principais
 
