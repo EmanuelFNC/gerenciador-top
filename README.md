@@ -15,7 +15,6 @@ Experimente agora: [top-demo.e-manuel.xyz](https://top-demo.e-manuel.xyz/)
 - Registro rápido de vendas com interface intuitiva
 - Seleção de produtos com busca em tempo real
 - Aplicação de descontos e condições especiais
-- Múltiplos métodos de pagamento por venda
 - Geração de comprovantes de venda
 
 ### 📦 Cadastro de Produtos
@@ -23,12 +22,10 @@ Experimente agora: [top-demo.e-manuel.xyz](https://top-demo.e-manuel.xyz/)
 - Controle de estoque com alertas de produtos em baixa
 - Cadastro de preços de compra e venda
 - Categorização e etiquetagem de produtos
-- Upload de imagens dos produtos
 
 ### 👥 Gestão de Clientes
 - Cadastro detalhado de informações de clientes
 - Histórico completo de compras por cliente
-- Controle de crédito e limites por cliente
 - Registro de observações e informações relevantes
 
 ### 💰 Fluxo de Caixa
