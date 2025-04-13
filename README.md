@@ -1,6 +1,6 @@
 Gerenciador TOP - Sistema de Gestão Comercial
 
-![Gerenciador TOP Logo](https://i.imgur.com/0A6q524.png)
+![Gerenciador TOP Logo](https://i.imgur.com/Khzspf7.png)
 
 ## 📋 Sobre o Projeto
 
