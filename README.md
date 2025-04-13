@@ -1,4 +1,4 @@
-# gerenciador-top# Gerenciador TOP - Sistema de Gestão Comercial
+Gerenciador TOP - Sistema de Gestão Comercial
 
 ![Gerenciador TOP Logo](https://i.imgur.com/0A6q524.png)
 
